@@ -13,4 +13,4 @@
 - 酷安 [@卖动TM](http://www.coolapk.com/u/1246946)
 - Telegram [@MaiTungTM](https://t.me/MaiTungTM)
 - 个人 Telegram 频道 [卖动的摸鱼日常](https://t.me/MaiTungTM_Notes)
-- ~约稿~Email [MaiTungTM@outlook.com](MaiTungTM@outlook.com)
+- ~约稿~Email [MaiTungTM@outlook.com](mailto:MaiTungTM@outlook.com)
